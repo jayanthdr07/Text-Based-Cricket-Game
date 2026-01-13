@@ -54,3 +54,21 @@ The player competes against the computer by choosing numbers between 1 and 6 for
   - Final scores are compared to declare the match result (Win/Loss)
 
 ---
+
+## 🚀 Future Enhancements
+
+- Add wickets count instead of single-out logic
+
+- Introduce overs and real cricket rules
+
+- Implement difficulty levels
+
+- Add score history and leaderboard
+
+- Create a GUI using Java Swing or JavaFX
+
+- Multiplayer support
+
+## 👤 Author
+
+**JAYANTH D R **
