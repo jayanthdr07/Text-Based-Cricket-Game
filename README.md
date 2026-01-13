@@ -37,3 +37,20 @@ The player competes against the computer by choosing numbers between 1 and 6 for
 - Beginner-friendly and easy-to-understand game flow
 
 ---
+## 🧠 Logic Used
+- **Random Number Generation**
+  - `Random` class is used to simulate computer batting and bowling plays
+- **Conditional Statements**
+  - `if-else` conditions determine runs, wickets, and match results
+- **Loops**
+  - `for` and `while` loops manage overs and balls (6 balls per innings)
+- **User Input Handling**
+  - `Scanner` class is used to take player input from the console
+- **Methods**
+  - Separate methods for batting and bowling to improve readability and modularity
+- **Constants**
+  - Fixed number of balls per innings for consistent gameplay
+- **Score Comparison**
+  - Final scores are compared to declare the match result (Win/Loss)
+
+---
