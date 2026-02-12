@@ -1,4 +1,4 @@
-13121110987654321## 🏏 Number Cricket Game (Java)
+1413121110987654321## 🏏 Number Cricket Game (Java)
 
 A console-based **Number Cricket Game** built using Java.  
 The player competes against the computer by choosing numbers between 1 and 6 for batting and bowling.
